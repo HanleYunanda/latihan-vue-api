@@ -1,0 +1,17 @@
+.btn-order {
+    background-color: #4EB883;
+    border-color: #4EB883;
+}
+
+.form-control {
+    border-color: #4EB883;
+}
+
+.btn-outline-secondary {
+    border-color: #4EB883;
+    color: #4EB883;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #4EB883;
+}
