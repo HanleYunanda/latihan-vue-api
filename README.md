@@ -1,5 +1,16 @@
 # latihan-vue-api
 
+## Penjelasan
+Project latihan implementasi Vue JS menggunakan API dummy <br>
+Tema : Website pemesanan makanan <br>
+Sumber : Youtube Wahidev Academy
+
+Yang dipelajari :
+- Vue CLI & Vue UI
+- Dasar Vue JS -> data, methods, data binding, components, props, vue router, dll
+- Bootstrap Vue
+- Axios
+
 ## Project setup
 ```
 npm install
